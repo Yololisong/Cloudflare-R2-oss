@@ -13,7 +13,7 @@
     <button class="upload-button circle" @click="showUploadPopup = true">
       <img
         style="filter: invert(100%)"
-        src="https://image.lisong.me/api/rfile/baseline_folder_black_36dp.png"
+        src="https://image.lisong.me/api/rfile/baseline_upload_file_black_36dp.png"
         alt="Upload"
         width="36"
         height="36"
