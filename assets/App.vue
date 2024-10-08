@@ -457,8 +457,8 @@ export default {
           window.history.pushState(null, "", url.toString());
         }
         document.title = `${
-          this.cwd.replace(/.*\/(?!$)|\//g, "") || "Lisong.Me"
-        } 网盘`;
+          this.cwd.replace(/.*\/(?!$)|\//g, "") || "Lisong.me"
+        } Cloud drive`;
       },
       immediate: true,
     },
