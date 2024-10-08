@@ -458,7 +458,7 @@ export default {
         }
         document.title = `${
           this.cwd.replace(/.*\/(?!$)|\//g, "") || "Lisong.Me"
-        } 文件库`;
+        } 网盘`;
       },
       immediate: true,
     },
