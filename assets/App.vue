@@ -55,7 +55,7 @@
         >
           <div class="file-icon">
             <img
-              src="https://image.lisong.me/api/rfile/baseline_folder_black_36dp.png"
+              src="https://image.lisong.me/api/rfile/baseline_folder_black_36dp2.png"
               width="36"
               height="36"
               alt="Folder"
@@ -76,7 +76,7 @@
         >
           <div class="file-icon">
             <img
-              src="https://image.lisong.me/api/rfile/baseline_folder_black_36dp.png"
+              src="https://image.lisong.me/api/rfile/baseline_folder_black_36dp2.png"
               width="36"
               height="36"
               alt="Folder"
